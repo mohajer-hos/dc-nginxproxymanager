@@ -1,9 +1,9 @@
 # docker-compose for nginx-proxy-manager
 [![Build Status](https://files.ariadata.co/file/ariadata_logo.png)](https://ariadata.co)
 
-![](https://img.shields.io/github/stars/ariadata/dc-nginxproxymanager.svg)
-![](https://img.shields.io/github/watchers/ariadata/dc-nginxproxymanager.svg)
-![](https://img.shields.io/github/forks/ariadata/dc-nginxproxymanager.svg)
+![](https://img.shields.io/github/stars/mohajer-hos/dc-nginxproxymanager.svg)
+![](https://img.shields.io/github/watchers/mohajer-hos/dc-nginxproxymanager.svg)
+![](https://img.shields.io/github/forks/mohajer-hos/dc-nginxproxymanager.svg)
 
 > This needs : [dockerhost](https://github.com/ariadata/dockerhost-sh)
 ---
@@ -13,7 +13,7 @@ docker network create nginx-proxy-manager
 ```
 #### 2- Clone this repo and pull it's docker images:
 ```sh
-git clone https://github.com/ariadata/dc-nginxproxymanager.git nginx-proxy-manager && cd nginx-proxy-manager && rm -rf .git && docker-compose pull
+git clone https://github.com/mohajer-hos/dc-nginxproxymanager.git nginx-proxy-manager && cd nginx-proxy-manager && rm -rf .git && docker-compose pull
 ```
 #### 3- Run docker-compose file by using :
 ```sh
