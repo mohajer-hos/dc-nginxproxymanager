@@ -1,10 +1,4 @@
 # docker-compose for nginx-proxy-manager
-[![Build Status](https://files.ariadata.co/file/ariadata_logo.png)](https://ariadata.co)
-
-![](https://img.shields.io/github/stars/mohajer-hos/dc-nginxproxymanager.svg)
-![](https://img.shields.io/github/watchers/mohajer-hos/dc-nginxproxymanager.svg)
-![](https://img.shields.io/github/forks/mohajer-hos/dc-nginxproxymanager.svg)
-
 > This needs : [dockerhost](https://github.com/ariadata/dockerhost-sh)
 ---
 #### 1- Create nginx-proxy-manager bridge network :
